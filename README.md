@@ -1,2 +1,2 @@
 # Six.flex
-六繳Flex試做
+六角Flex試做
