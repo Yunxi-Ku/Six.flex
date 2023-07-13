@@ -90,6 +90,12 @@ table {
     text-underline-offset: 20px;
 } 
 
+.banner img {
+    display: flex;
+    margin: auto;
+    padding-bottom: 5px;
+}
+
 .contain {
     margin-bottom: 20px;
 
