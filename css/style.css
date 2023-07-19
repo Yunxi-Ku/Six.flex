@@ -65,12 +65,13 @@ table {
 
 .menu {
     display: flex;
+    width: 200px;
     justify-content: space-between;
 }
 
 .menu li {
-    /* padding: 0 50px; */
-    width: 80px;
+    display: flex;
+    justify-content: space-between;
     text-align: center;
 }
 
